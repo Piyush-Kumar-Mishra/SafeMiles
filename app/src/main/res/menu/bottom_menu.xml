@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile_img"
+        android:title="Profile"
+        app:showAsAction="always"
+       />
+    <item android:id="@+id/location_btn"
+        android:icon="@drawable/location"
+        android:title="Location"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/connected_watch_text"
+        android:icon="@drawable/watch_img"
+        android:title="Connect BT"
+        app:showAsAction="always"/>
+
+        
+</menu>

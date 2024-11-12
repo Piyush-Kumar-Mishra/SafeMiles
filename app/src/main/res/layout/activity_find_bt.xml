@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".find_BT">
+
+  <TextView
+      android:id="@+id/bluetooth_devices_title"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentEnd="true"
+      android:layout_marginTop="45dp"
+      android:layout_marginEnd="81dp"
+      android:text="Available Bluetooth Devices"
+      android:textSize="20sp" />
+
+  <ListView
+      android:id="@+id/device_list"
+      android:layout_width="match_parent"
+      android:layout_height="555dp"
+      android:layout_below="@id/bluetooth_devices_title"
+      android:layout_alignParentEnd="true"
+      android:layout_marginTop="31dp"
+      android:layout_marginEnd="4dp"
+      android:divider="@android:color/darker_gray"
+      android:dividerHeight="1dp" />
+
+  </RelativeLayout>
