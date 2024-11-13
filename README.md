@@ -1,20 +1,20 @@
-#Smart Health & Safety Monitoring System for Delivery Workers
+# Smart Health & Safety Monitoring System for Delivery Workers
 
 <p>In a fast-paced world of deliveries, our AI-powered Smart Delivery Partner Health and Workload Monitoring application ensures every delivery worker remains healthy, stress-free, and productive. With real-time health tracking, personalized rest recommendations, and smart workload management.</p>
 
 
 ![Screenshot 2024-11-13 165610](https://github.com/user-attachments/assets/1eddbce6-77d0-4e51-94c9-91c107de7fd7)
 
-Health Monitoring via Wearables
+**Health Monitoring via Wearables
 
 ![Screenshot 2024-11-13 165859](https://github.com/user-attachments/assets/4fd728c7-f7b3-4df0-b6a8-286acf75327e)
 
- **Emergency Alert System**
+ **Emergency Alert System
 
 ![Screenshot 2024-11-13 165752](https://github.com/user-attachments/assets/1de12967-7de3-409c-93f2-c290c2b4ba68)
 
 
- **Emergency Alert System**
+ **Emergency Alert System
  
 ![Screenshot 2024-11-13 165828](https://github.com/user-attachments/assets/82e7e776-b6f8-4569-b0ab-339af50fe29e)
 
